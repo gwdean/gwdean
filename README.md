@@ -1,29 +1,35 @@
 # Greg Dean
 
-Exploring data, declarative systems, relational thinking, and lightweight analytics workflows.
+Exploring databases, relational theory, metadata, and analytics.
 
-## Current Projects
+## Current Focus
 
-- TypeCity — Streamlit app exploring type systems and conceptual visualization
-- Relational Pattern Atlas
-- DuckDB + SQL practice using SPJ and Northwind datasets
-- CSV repair and data cleaning exercises
+* DuckDB
+* DuckLake
+* Metadata and information architecture
+* SQL
+* Relational theory (Codd and Date)
+
+## Summer 2026 Projects
+
+* **Metadata in Depth** — exploring DuckLake metadata through SQL and relational concepts
+* **duckdb.duckdb** — a knowledge database built from the DuckDB Library
+* **DuckLake ecosystem research** — studying the emerging lakehouse and metadata ecosystem
 
 ## Interests
 
-- Streamlit
-- DuckDB
-- Tableau
-- Relational modeling
-- Declarative thought
-- Human-centered computing
+* Databases
+* Analytics
+* Information architecture
+* Knowledge organization
+* Open-source software
 
 ## Philosophy
 
-Minimalism.
-Operational workflows.
-Conceptual clarity over complexity.
+I enjoy understanding systems from first principles and documenting what I learn. Much of my work focuses on treating databases not only as tools, but also as objects of study.
 
----
+## Links
 
-“Simple things should be simple.”
+* GitHub repositories
+* Notes and research projects
+* Community contributions
